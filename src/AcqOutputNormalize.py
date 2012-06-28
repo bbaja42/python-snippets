@@ -2,6 +2,10 @@
 """
 Appends source CADU file name and it's MD5 checksum to acquisition name
 
+Tested using:
+    python 2.7
+    envoy - installed through pip
+
 """
 
 
