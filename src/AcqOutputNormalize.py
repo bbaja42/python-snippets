@@ -51,4 +51,4 @@ for acq in sorted(os.listdir(".")):
         else:
                 file_name += "EMPTY"
         print "Renaming  " + acq + " : " + file_name
-        #os.rename(acq, file_name)
+        os.rename(acq, file_name)
